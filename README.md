@@ -15,7 +15,7 @@ This is a package for feed-forward neural networks. By ``feed-foward,'' I mean t
 **Step 3**: Train the networks
 
     cd ../../FFNN
-    python compile.sh
+    sh compile.sh
     ./QC
 
 ## Cite the paper
