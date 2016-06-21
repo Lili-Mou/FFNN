@@ -35,3 +35,8 @@ Currently, this package has also supported the following papers.
 [4] Lili Mou, Ge Li, Lu Zhang, Tao Wang, Zhi Jin. "Convolutional neural networks over tree structures for programming language processing." In *Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI)*, pages 1287--1293, 2016.
 
 [5] Lili Mou, Rui Men, Ge Li, Yan Xu, Lu Zhang, Rui Yan, Zhi Jin. "Natural language inference by tree-based convolution and heuristic matching." To appear in *ACL(2)*, 2016.
+
+# Contact
+
+If you have any problem, please don't hesitate to contact me: 
+doublepower.mou at the mail server provided by google (gmail)
