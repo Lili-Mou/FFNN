@@ -1,0 +1,27 @@
+1. Install eclipse and plug-ins
+   > sudo apt-get install eclipse-c++
+
+2. Install gfortran
+   
+   > sudo apt-get install gfortran
+   
+   
+3. Install BLAS and CBLAS
+   附件里会有
+    
+4. Configure in eclipse
+    
+    Project --> Properties --> C/C++ Build
+    --> Settings --> Tool Settings --> 
+       
+    a) In Cross G++ Compiler --> Includes paths (-l)
+       Add /home/mou/BLAS/CBLAS/include
+       
+    b) In Cross G++ Linker Miscellaneous 
+       Add /home/mou/BLAS/CBLAS/lib/cblas_LINUX.a
+           /home/mou/BLAS/BLAS/blas_LINUX.a
+           
+    c) In Cross G++ Linker --> Expert settings
+    
+       Append at the end ``-lgfortran''
+       (Add also "-lpthread".)
