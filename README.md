@@ -1,6 +1,8 @@
 # FFNN
 
-This is a package for feed-forward neural networks. By ``feed-foward,'' I mean that all other structures (e.g., recurrent, recursive, convolutional) are unrolled to a feed-forward net. Also included is an example with LSTM-based network for question classification.
+This is an **obsolete** package for neural networks. However, I believe this package helps beginners to implement neural networks in a low-level fashion. Hence, the package might still be useful for pedagogical purposes.
+
+By "feed-foward," I mean that all other structures (e.g., recurrent, recursive, convolutional) are unrolled to a feed-forward net. Also included is an example with LSTM-based network for question classification.
 
 ## Run the code
 
@@ -26,7 +28,7 @@ Please cite the paper if you use it for research purposes:
 
   
   
-Currently, this package has also supported the following papers.
+This package has also supported the following papers.
 
 [2] Yan Xu, Lili Mou, Ge Li, Yunchuan Chen, Hao Peng and Zhi Jin. "Classifying relations via long short term memory networks along shortest dependency paths." In *Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, pages 1785--1794, 2015.
 
@@ -34,9 +36,11 @@ Currently, this package has also supported the following papers.
 
 [4] Lili Mou, Ge Li, Lu Zhang, Tao Wang, Zhi Jin. "Convolutional neural networks over tree structures for programming language processing." In *Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI)*, pages 1287--1293, 2016.
 
-[5] Lili Mou, Rui Men, Ge Li, Yan Xu, Lu Zhang, Rui Yan, Zhi Jin. "Natural language inference by tree-based convolution and heuristic matching." To appear in *ACL(2)*, 2016.
+[5] Lili Mou, Rui Men, Ge Li, Yan Xu, Lu Zhang, Rui Yan, Zhi Jin. "Natural language inference by tree-based convolution and heuristic matching." In *Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL-short)*, volume 2, pages 130--136, 2016.
 
+[6] Lili Mou, Zhao Meng, Rui Yan, Ge Li, Yan Xu, Lu Zhang, Zhi Jin. How transferable are neural networks in NLP applications? In *Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, pages 478--489, 2016.
+
+[7] Yan Xu, Ran Jia, Lili Mou, Ge Li, Yunchuan Chen, Yangyang Lu, Zhi Jin. Improved relation classification by deep recurrent neural networks with data augmentation. In *Proceedings of the 26th International Conference on Computational Linguistics (COLING)*, pages 1461--1470, 2016.
 # Contact
 
-If you have any problem, please don't hesitate to contact me: 
-doublepower.mou at the mail server provided by google (gmail)
+Sorry, I do not answer questions regarding implementation due to the time constaints on my side.
