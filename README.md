@@ -43,4 +43,6 @@ This package has also supported the following papers.
 [7] Yan Xu, Ran Jia, Lili Mou, Ge Li, Yunchuan Chen, Yangyang Lu, Zhi Jin. Improved relation classification by deep recurrent neural networks with data augmentation. In *Proceedings of the 26th International Conference on Computational Linguistics (COLING)*, pages 1461--1470, 2016.
 # Contact
 
+[8] Lili Mou, Yiping Song, Rui Yan, Ge Li, Lu Zhang, Zhi Jin. Sequence to backward and forward sequences: A content-introducing approach to generative short-text conversation. In *Proceedings of the 26th International Conference on Computational Linguistics (COLING)*, pages 3349--3358, 2016.
+
 Sorry, I do not answer questions regarding implementation due to the time constaints on my side.
